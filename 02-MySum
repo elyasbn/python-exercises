@@ -1,0 +1,7 @@
+def mySum(*numbers):
+    total = 0
+    for number in numbers:
+        total += number
+    return total
+
+print(mySum(2,5,6))
