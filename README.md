@@ -3,4 +3,5 @@
 <h2>Index: </h2>
 <ul>
   <li><a href="01-NumberGuessingGame.py">01- Number Guessing Game</a></li>
+  <li><a href="02-MySum">02- My Sum</a></li>
 </ul>
